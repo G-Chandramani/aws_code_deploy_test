@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /foldertest/
+  - source: /
     destination: /home/aws_code_deploy_test/
 hooks:
   BeforeInstall:
